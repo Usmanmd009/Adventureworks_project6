@@ -4,7 +4,7 @@
 ### INTRODUCTION
 
 
-This report analyzes the Adventure Works 2015,2016,2017 dataset to inform business decisions and drive growth. Focusing on sales, customers, and products, our analysis identifies key trends and patterns, providing actionable recommendations to enhance operations, customer engagement, and market expansion. Tableau  is use for Analysis 
+This report delivers data-driven insights to drive business growth, focusing on sales, customer, and product analytics. Key findings and recommendations enable informed decision-making, operational improvements, enhanced customer experiences, and effective market strategies.. Tableau  is use for Analysis 
 
 
 
